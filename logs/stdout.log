@@ -1,0 +1,1427 @@
+on_execute
+on_init
+on_cleanup
+request id is HP_Photosmart_A320_Series-25 (1 file(s))
+on_execute
+on_init
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PARTAGE
+DO YOU WANT TO PRINT ?
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : IMPRESSION
+SEND TO PRINTER
+on_cleanup
+request id is HP_Photosmart_A320_Series-26 (1 file(s))
+on_execute
+on_init
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PARTAGE
+DO YOU WANT TO PRINT ?
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : IMPRESSION
+SEND TO PRINTER
+on_cleanup
+on_execute
+on_init
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PARTAGE
+DO YOU WANT TO PRINT ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+on_cleanup
+on_execute
+on_init
+on_cleanup
+on_execute
+on_init
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+on_execute
+on_init
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+on_execute
+on_init
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+on_execute
+on_init
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+on_execute
+on_init
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+on_execute
+on_init
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+on_execute
+on_init
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+on_execute
+on_init
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PARTAGE
+DO YOU WANT TO PRINT ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+on_execute
+on_init
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PRISE_DE_VUE
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PARTAGE
+DO YOU WANT TO PRINT ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+on_execute
+on_init
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PARTAGE
+DO YOU WANT TO PRINT ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+on_execute
+on_init
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PARTAGE
+DO YOU WANT TO PRINT ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+on_execute
+on_init
+on_cleanup
+on_execute
+on_init
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PARTAGE
+DO YOU WANT TO PRINT ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+on_cleanup
+                              on_execute
+on_init
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PARTAGE
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PARTAGE
+DO YOU WANT TO PRINT ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+on_cleanup
+on_execute
+on_init
+on_cleanup
+on_execute
+on_init
+on_cleanup
+on_execute
+on_init
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PARTAGE
+DO YOU WANT TO PRINT ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PARTAGE
+DO YOU WANT TO PRINT ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+on_cleanup
+on_execute
+on_init
+on_cleanup
+request id is HP_Photosmart_A320_Series-27 (1 file(s))
+on_execute
+on_init
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PARTAGE
+SHARED TO FACEBOOK
+DO YOU WANT TO PRINT ?
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : IMPRESSION
+SEND TO PRINTER
+on_cleanup
+on_execute
+on_init
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PARTAGE
+DO YOU WANT TO PRINT ?
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+on_cleanup
+on_execute
+on_init
+on_execute
+on_init
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+log 01_sharing_asked
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PARTAGE
+log 03_sharing_denied
+DO YOU WANT TO PRINT ?
+log 06_printing_asked
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+log 08_printing_denied
+on_cleanup
+on_execute
+on_init
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+log 01_sharing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : PARTAGE
+log 02_sharing_denied
+trying to open file
+trying to write into file
+finally close file
+DO YOU WANT TO PRINT ?
+log 04_printing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+log 05_printing_denied
+trying to open file
+trying to write into file
+finally close file
+on_cleanup
+on_execute
+on_init
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+log 01_sharing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PARTAGE
+log 02_sharing_allowed
+trying to open file
+trying to write into file
+finally close file
+SHARED TO FACEBOOK
+DO YOU WANT TO PRINT ?
+log 04_printing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+log 05_printing_denied
+trying to open file
+trying to write into file
+finally close file
+on_execute
+on_init
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+log 01_sharing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PARTAGE
+log 02_sharing_allowed
+trying to open file
+trying to write into file
+finally close file
+SHARED TO FACEBOOK
+log 03_sharing_failure
+trying to open file
+trying to write into file
+finally close file
+DO YOU WANT TO PRINT ?
+log 04_printing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+log 05_printing_denied
+trying to open file
+trying to write into file
+finally close file
+on_cleanup
+on_execute
+on_init
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+log 01_sharing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PARTAGE
+log 02_sharing_allowed
+trying to open file
+trying to write into file
+finally close file
+SHARED TO FACEBOOK
+DO YOU WANT TO PRINT ?
+log 04_printing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+log 05_printing_denied
+trying to open file
+trying to write into file
+finally close file
+on_execute
+on_init
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+log 01_sharing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PARTAGE
+log 02_sharing_allowed
+trying to open file
+trying to write into file
+finally close file
+SHARED TO FACEBOOK
+log 03_sharing_failure
+trying to open file
+trying to write into file
+finally close file
+DO YOU WANT TO PRINT ?
+log 04_printing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+log 05_printing_denied
+trying to open file
+trying to write into file
+finally close file
+on_execute
+on_init
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+log 01_sharing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PARTAGE
+log 02_sharing_allowed
+trying to open file
+trying to write into file
+finally close file
+SHARED TO FACEBOOK
+log 03_sharing_success
+trying to open file
+trying to write into file
+finally close file
+DO YOU WANT TO PRINT ?
+log 04_printing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+log 05_printing_denied
+trying to open file
+trying to write into file
+finally close file
+on_execute
+on_init
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+log 01_sharing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PARTAGE
+log 02_sharing_allowed
+trying to open file
+trying to write into file
+finally close file
+SHARED TO FACEBOOK
+log 03_sharing_success
+trying to open file
+trying to write into file
+finally close file
+DO YOU WANT TO PRINT ?
+log 04_printing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+log 05_printing_denied
+trying to open file
+trying to write into file
+finally close file
+on_execute
+on_init
+on_cleanup
+on_execute
+on_init
+on_cleanup
+on_execute
+on_init
+on_pygame_event
+current_mode : PRISE_DE_VUE
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+log 01_sharing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PARTAGE
+log 02_sharing_allowed
+trying to open file
+trying to write into file
+finally close file
+SHARED TO FACEBOOK
+log 03_sharing_success
+trying to open file
+trying to write into file
+finally close file
+DO YOU WANT TO PRINT ?
+log 04_printing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+log 05_printing_denied
+trying to open file
+trying to write into file
+finally close file
+on_cleanup
+on_execute
+on_init
+on_pygame_event
+current_mode : PRISE_DE_VUE
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+log 01_sharing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PARTAGE
+log 02_sharing_allowed
+trying to open file
+trying to write into file
+finally close file
+SHARED TO FACEBOOK
+log 03_sharing_success
+trying to open file
+trying to write into file
+finally close file
+DO YOU WANT TO PRINT ?
+log 04_printing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+log 05_printing_denied
+trying to open file
+trying to write into file
+finally close file
+on_cleanup
+on_execute
+on_init
+on_pygame_event
+current_mode : PRISE_DE_VUE
+on_pygame_event
+current_mode : PRISE_DE_VUE
+on_cleanup
+on_execute
+on_init
+on_pygame_event
+current_mode : PRISE_DE_VUE
+on_cleanup
+on_execute
+on_init
+on_cleanup
+request id is HP_Photosmart_A320_Series-28 (1 file(s))
+request id is HP_Photosmart_A320_Series-29 (1 file(s))
+on_execute
+on_init
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+log 01_sharing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PARTAGE
+log 02_sharing_allowed
+trying to open file
+trying to write into file
+finally close file
+SHARED TO FACEBOOK
+log 03_sharing_success
+trying to open file
+trying to write into file
+finally close file
+DO YOU WANT TO PRINT ?
+log 04_printing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : IMPRESSION
+log 05_printing_allowed
+trying to open file
+trying to write into file
+finally close file
+SEND TO PRINTER
+log 06_printing_success
+trying to open file
+trying to write into file
+finally close file
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+log 01_sharing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PARTAGE
+log 02_sharing_allowed
+trying to open file
+trying to write into file
+finally close file
+SHARED TO FACEBOOK
+log 03_sharing_success
+trying to open file
+trying to write into file
+finally close file
+DO YOU WANT TO PRINT ?
+log 04_printing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : IMPRESSION
+log 05_printing_allowed
+trying to open file
+trying to write into file
+finally close file
+SEND TO PRINTER
+log 06_printing_success
+trying to open file
+trying to write into file
+finally close file
+Circuit YELLOW-27 closed and reopened
+on_button_pushed : 27
+current_mode : PRISE_DE_VUE
+on_run_process
+take_one_picture
+take_one_picture
+take_one_picture
+take_one_picture
+DO YOU WANT TO SHARE ?
+log 01_sharing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit GREEN-22 closed and reopened
+on_button_pushed : 22
+current_mode : PARTAGE
+log 02_sharing_allowed
+trying to open file
+trying to write into file
+finally close file
+SHARED TO FACEBOOK
+log 03_sharing_success
+trying to open file
+trying to write into file
+finally close file
+DO YOU WANT TO PRINT ?
+log 04_printing_asked
+trying to open file
+trying to write into file
+finally close file
+Circuit RED-17 closed and reopened
+on_button_pushed : 17
+current_mode : IMPRESSION
+log 05_printing_denied
+trying to open file
+trying to write into file
+finally close file
+on_cleanup
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              on_execute
+on_init
+on_cleanup
