@@ -30,7 +30,7 @@ USER_ACCESS_TOKEN = "XXXXXxXxXXXXxXXXxXX9XXxXxXXxXXxxXxXXXxXxxX9X9X9XXXxX9xxxX9X
 Pour obtenir le USER_ACCESS_TOKEN, il faut le demander a Facebook de la maniere suivante :
     Manuellement :
         Page du GraphAPI Explorer : https://developers.facebook.com/tools/explorer
-        Choisir l'application dans la liste deroulante application (ex : La cabine photo)
+        Choisir l'application dans la liste déroulante application (ex : La cabine photo)
         Cliquer sur "Get Token" puis "Get User Access Token"
         Donner tous les droits necessaire a ce qu'on veut faire dans l'application (user_managed_groups, manage_pages, publish_actions, publish_pages)
         Cliquer sur "Get Access Token"
